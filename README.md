@@ -1,2 +1,2 @@
 # Windows-Install-Protocol
-Installation process used everytime I clean install windows
+Installation process used every time I clean install windows
