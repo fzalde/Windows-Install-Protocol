@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows Install Protocol/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
@@ -171,8 +171,8 @@
   },
   "active": "9780ee1000324142",
   "lastOpenFiles": [
-    "README.md",
     "Windows Install Protocol/README.md",
+    "README.md",
     "Windows Install Protocol/Test.txt",
     "Windows Install Protocol"
   ]
