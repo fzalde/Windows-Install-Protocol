@@ -11,11 +11,11 @@ Installation process used every time I clean install windows
 ```powershell
 irm https://get.activated.win | iex
 ```
-1. **Windows Tweaks**
+4. **Windows Tweaks**
 ```powershell
 irm "https://christitus.com/win" | iex
 ```
-1. **App Package Install Script**
+5. **App Package Install Script**
 ```powershell
 winget install --id=7zip.7zip -e --accept-source-agreements --accept-package-agreements
 winget install --id=Brave.Brave -e --accept-source-agreements --accept-package-agreements
