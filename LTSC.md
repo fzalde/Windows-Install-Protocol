@@ -1,4 +1,5 @@
 # Windows-Install-Protocol
+
 Installation process used every time I clean install Windows
 
 1. [**Windows 11 LTSC ISO Download**](https://massgrave.dev/windows_ltsc_links)
@@ -7,13 +8,17 @@ Installation process used every time I clean install Windows
     - Press `Shift + F10`
     - Run: `start ms-cxh:localonly`
 4. **Microsoft Activation Script**
+
     ```powershell
     irm https://get.activated.win | iex
     ```
+
 5. **Windows Tweaks**
+
     ```powershell
     irm "https://christitus.com/win" | iex
     ```
+
 6. **App Package Install Script**
     - [Script](App-Package-Script.md)
 7. **Microsoft Store**
@@ -22,5 +27,6 @@ Installation process used every time I clean install Windows
     - [App Installer](https://apps.microsoft.com/detail/9nblggh4nns1?hl=en-US&gl=CA)
 
 ## Useful Links
-- https://www.reddit.com/r/WindowsLTSC/wiki/index/
-- https://github.com/microsoft/winget-cli
+
+- <https://www.reddit.com/r/WindowsLTSC/wiki/index/>
+- <https://github.com/microsoft/winget-cli>
