@@ -19,7 +19,7 @@ irm "https://christitus.com/win" | iex
 ```
 
 5. **App Package Install Script**
-    * [Script](App-Package-Script.md)
+   * [Script](App-Package-Script.md)
 
 6. **Microsoft Store**
     * For Windows 11, you'll simply need to enter the following command in an administrator cmd: wsreset -i
