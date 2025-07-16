@@ -21,5 +21,10 @@ irm "https://christitus.com/win" | iex
 6. **Microsoft Store**
     * For Windows 11, you'll simply need to enter the following command in an administrator cmd: wsreset -i
 
+7. **Installing Winget**
+    * https://github.com/microsoft/winget-cli
+    * The client is distributed within the [App Installer](https://apps.microsoft.com/detail/9nblggh4nns1?hl=en-US&gl=CA) package.
+
 ## Useful Links
-*https://www.reddit.com/r/WindowsLTSC/wiki/index/*
+   * https://www.reddit.com/r/WindowsLTSC/wiki/index/
+   * https://github.com/microsoft/winget-cli
