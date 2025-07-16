@@ -1,9 +1,6 @@
 # Windows-Install-Protocol
 Installation process used every time I clean install windows
 
-## Useful Links
-*https://www.reddit.com/r/WindowsLTSC/wiki/index/*
-
 1. [**Windows 11 LTSC ISO Download**](https://massgrave.dev/windows_ltsc_links)
 2. **Windows login bypass**
 
@@ -14,11 +11,11 @@ Installation process used every time I clean install windows
 ```powershell
 irm https://get.activated.win | iex
 ```
-4. **Windows Tweaks**
+1. **Windows Tweaks**
 ```powershell
 irm "https://christitus.com/win" | iex
 ```
-5. **App Package Install Script**
+1. **App Package Install Script**
 ```powershell
 winget install --id=7zip.7zip -e --accept-source-agreements --accept-package-agreements
 winget install --id=Brave.Brave -e --accept-source-agreements --accept-package-agreements
@@ -32,3 +29,6 @@ winget install --id=flux.flux -e --accept-source-agreements --accept-package-agr
 winget install --id=Git.Git -e --accept-source-agreements --accept-package-agreements
 winget install --id=Oracle.VirtualBox -e --accept-source-agreements --accept-package-agreements
 ```
+
+### Useful Links
+*https://www.reddit.com/r/WindowsLTSC/wiki/index/*
