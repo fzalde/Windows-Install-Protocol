@@ -21,11 +21,6 @@ irm "https://christitus.com/win" | iex
 5. **App Package Install Script**
    * [Script](App-Package-Script.md)
 
-6. **Microsoft Activation Script**
-```powershell
-irm https://get.activated.win | iex
-```
-
 # Miscellaneous
 https://github.com/Raphire/Win11Debloat
 
