@@ -19,9 +19,9 @@ irm "https://christitus.com/win" | iex
 ```
 
 5. **App Package Install Script**
-[Script](App-Package-Script.md)
+   * [](App-Package-Script.md)
 
-1. **Microsoft Activation Script**
+6. **Microsoft Activation Script**
 ```powershell
 irm https://get.activated.win | iex
 ```
