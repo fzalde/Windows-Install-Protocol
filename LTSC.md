@@ -1,32 +1,26 @@
 # Windows-Install-Protocol
-Installation process used every time I clean install windows
+Installation process used every time I clean install Windows
 
 1. [**Windows 11 LTSC ISO Download**](https://massgrave.dev/windows_ltsc_links)
-
-2. **Windows login bypass**
-
-    * Shift + F10
-    * start ms-cxh:localonly
-
-3. **Microsoft Activation Script**
-```powershell
-irm https://get.activated.win | iex
-```
-
-4. **Windows Tweaks**
-```powershell
-irm "https://christitus.com/win" | iex
-```
-
-5. **App Package Install Script**
-   * [Script](App-Package-Script.md)
-
-6. **Microsoft Store**
-    * For Windows 11, you'll simply need to enter the following command in an administrator cmd: wsreset -i
-
-7. **Installing Winget**
-    * [App Installer](https://apps.microsoft.com/detail/9nblggh4nns1?hl=en-US&gl=CA)
+2. [**Rufus Download**](https://rufus.ie/en/)
+3. **Windows login bypass**
+    - Press `Shift + F10`
+    - Run: `start ms-cxh:localonly`
+4. **Microsoft Activation Script**
+    ```powershell
+    irm https://get.activated.win | iex
+    ```
+5. **Windows Tweaks**
+    ```powershell
+    irm "https://christitus.com/win" | iex
+    ```
+6. **App Package Install Script**
+    - [Script](App-Package-Script.md)
+7. **Microsoft Store**
+    - For Windows 11, run in Admin CMD: `wsreset -i`
+8. **Installing Winget**
+    - [App Installer](https://apps.microsoft.com/detail/9nblggh4nns1?hl=en-US&gl=CA)
 
 ## Useful Links
-   * https://www.reddit.com/r/WindowsLTSC/wiki/index/
-   * https://github.com/microsoft/winget-cli
+- https://www.reddit.com/r/WindowsLTSC/wiki/index/
+- https://github.com/microsoft/winget-cli

@@ -1,27 +1,22 @@
 # Windows-Install-Protocol
-Installation process used every time I clean install windows
+Installation process used every time I clean install Windows
 
 1. [**Windows 11 ISO Download**](https://www.microsoft.com/en-us/software-download/windows11)
-
-2. **Windows login bypass**
-
-	* Shift + F10
-	* start ms-cxh:localonly
-
-3. **Microsoft Activation Script**
-```powershell
-irm https://get.activated.win | iex
-```
-
-4. **Windows Tweaks**
-```powershell
-irm "https://christitus.com/win" | iex
-```
-
-5. **App Package Install Script**
-   * [Script](App-Package-Script.md)
+2. [**Rufus Download**](https://rufus.ie/en/)
+3. **Windows login bypass**
+    - Press `Shift + F10`
+    - Run: `start ms-cxh:localonly`
+4. **Microsoft Activation Script**
+    ```powershell
+    irm https://get.activated.win | iex
+    ```
+5. **Windows Tweaks**
+    ```powershell
+    irm "https://christitus.com/win" | iex
+    ```
+6. **App Package Install Script**
+    - [Script](App-Package-Script.md)
 
 # Miscellaneous
-https://github.com/Raphire/Win11Debloat
-
-[Windows LTSC](LTSC.md)
+- https://github.com/Raphire/Win11Debloat  
+- [Windows LTSC](LTSC.md)
