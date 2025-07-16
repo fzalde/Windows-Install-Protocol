@@ -35,4 +35,4 @@ irm https://get.activated.win | iex
 # Miscellaneous
 https://github.com/Raphire/Win11Debloat
 
-[# Windows LTSC](LTSC.md)
+# [Windows LTSC](LTSC.md)
