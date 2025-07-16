@@ -24,6 +24,7 @@ winget install --id=Mozilla.Firefox -e --accept-source-agreements --accept-packa
 winget install --id=Obsidian.Obsidian -e --accept-source-agreements --accept-package-agreements
 winget install --id=flux.flux -e --accept-source-agreements --accept-package-agreements
 winget install --id=Git.Git -e --accept-source-agreements --accept-package-agreements
+winget install --id=Oracle.VirtualBox -e --accept-source-agreements --accept-package-agreements
 ```
 
 7. **Microsoft Activation Script**
@@ -33,3 +34,5 @@ irm https://get.activated.win | iex
 
 # Miscellaneous
 https://github.com/Raphire/Win11Debloat
+
+# Windows LTSC
