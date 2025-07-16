@@ -22,7 +22,7 @@ Installation process used every time I clean install Windows
 6. **App Package Install Script**
     - [Script](App-Package-Script.md)
 
-# Miscellaneous
+## Miscellaneous
 
 - <https://github.com/Raphire/Win11Debloat>  
 - [Windows LTSC](LTSC.md)
