@@ -10,6 +10,5 @@ winget install --id=VideoLAN.VLC -e --accept-source-agreements --accept-package-
 winget install --id=Mozilla.Firefox -e --accept-source-agreements --accept-package-agreements
 winget install --id=flux.flux -e --accept-source-agreements --accept-package-agreements
 winget install --id=Git.Git -e --accept-source-agreements --accept-package-agreements
-winget install --id=Oracle.VirtualBox -e --accept-source-agreements --accept-package-agreements
 winget install --id=OBSProject.OBSStudio -e --accept-source-agreements --accept-package-agreements
 ```
