@@ -1,4 +1,4 @@
-# Windows-Install-Protocol
+# Windows Install Protocol For LTSC
 
 Installation process used every time I clean install Windows
 
