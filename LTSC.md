@@ -13,20 +13,21 @@ Installation process used every time I clean install Windows
    irm https://get.activated.win | iex
    ```
 
-5. **Windows Tweaks**
+5. **App Package Install Script**
+
+   - [Script](App-Package-Script.md)
+
+6. **Microsoft Store**
+   - For Windows 11, run in Admin CMD: `wsreset -i`
+7. **Installing Winget**
+
+   - [App Installer](https://apps.microsoft.com/detail/9nblggh4nns1?hl=en-US&gl=CA)
+
+8. **Windows Tweaks**
 
    ```powershell
    irm "https://christitus.com/win" | iex
    ```
-
-6. **App Package Install Script**
-
-   - [Script](App-Package-Script.md)
-
-7. **Microsoft Store**
-   - For Windows 11, run in Admin CMD: `wsreset -i`
-8. **Installing Winget**
-   - [App Installer](https://apps.microsoft.com/detail/9nblggh4nns1?hl=en-US&gl=CA)
 
 ## Useful Links
 
