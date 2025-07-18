@@ -11,4 +11,5 @@ winget install --id=Mozilla.Firefox -e --accept-source-agreements --accept-packa
 winget install --id=flux.flux -e --accept-source-agreements --accept-package-agreements
 winget install --id=Git.Git -e --accept-source-agreements --accept-package-agreements
 winget install --id=OBSProject.OBSStudio -e --accept-source-agreements --accept-package-agreements
+winget install --id=REALiX.HWiNFO -e --accept-source-agreements --accept-package-agreements
 ```
