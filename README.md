@@ -20,10 +20,11 @@ Installation process used every time I clean install Windows
    ```
 
 6. **App Package Install Script**
+
    - [Script](App-Package-Script.md)
+
 7. **Ad-Block Utilities**
-   - [**Twitch Adblock Script**](https://github.com/pixeltris/TwitchAdSolutions)
-   - [**YT Shorts Blocker**](https://github.com/gijsdev/ublock-hide-yt-shorts)
+   - [Ad Block](adblock-utilities.md)
 
 ## Miscellaneous
 
