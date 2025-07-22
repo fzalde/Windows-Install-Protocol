@@ -29,6 +29,10 @@ Installation process used every time I clean install Windows
 
    - [Script](App-Package-Script.md)
 
+9. **Ad-Block Utilities**
+   - [**Twitch Adblock Script**](https://github.com/pixeltris/TwitchAdSolutions)
+   - [**YT Shorts Blocker**](https://github.com/gijsdev/ublock-hide-yt-shorts)
+
 ## Useful Links
 
 - <https://www.reddit.com/r/WindowsLTSC/wiki/index/>
