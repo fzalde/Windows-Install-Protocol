@@ -13,4 +13,5 @@ winget install --id=Git.Git -e --accept-source-agreements --accept-package-agree
 winget install --id=OBSProject.OBSStudio -e --accept-source-agreements --accept-package-agreements
 winget install --id=REALiX.HWiNFO -e --accept-source-agreements --accept-package-agreements
 winget install --id=Microsoft.PowerToys -e --accept-source-agreements --accept-package-agreements
+winget install --id=Rem0o.FanControl -e --accept-source-agreements --accept-package-agreements
 ```
