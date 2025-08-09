@@ -23,10 +23,9 @@ Installation process used every time I clean install Windows
 
    - [Script](App-Package-Script.md)
 
-7. **Ad-Block Utilities**
-   - [Ad Block](adblock-utilities.md)
-
 ## Miscellaneous
 
 - <https://github.com/Raphire/Win11Debloat>
 - [Windows LTSC](LTSC.md)
+- [Ad Block Utilities](adblock-utilities.md)
+- [Browser Extensions](extensions.md)
