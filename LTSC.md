@@ -29,10 +29,9 @@ Installation process used every time I clean install Windows
 
    - [Script](App-Package-Script.md)
 
-9. **Ad-Block Utilities**
-   - [Ad Block](adblock-utilities.md)
-
 ## Useful Links
 
 - <https://www.reddit.com/r/WindowsLTSC/wiki/index/>
 - <https://github.com/microsoft/winget-cli>
+- [Ad Block Utilities](adblock-utilities.md)
+- [Browser Extensions](extensions.md)
