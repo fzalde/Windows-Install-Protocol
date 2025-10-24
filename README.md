@@ -21,7 +21,7 @@ Installation process used every time I clean install Windows
 
 6. **App Package Install Script**
 
-   - [Script](App-Package-Script.md)
+   - [Script](App-Package-Script.md) 
 
 ## Miscellaneous
 
@@ -31,3 +31,6 @@ Installation process used every time I clean install Windows
 - [Browser Extensions](extensions.md)
 - [Adding a new SSH key to your GitHub account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
 - [Generating a new SSH key and adding it to the ssh-agent](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
+## Log
+- [2025-5-10]
