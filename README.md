@@ -34,3 +34,4 @@ Installation process used every time I clean install Windows
 
 ## Log
 - [2025-5-10]
+- [2025-11-11]
