@@ -18,6 +18,7 @@ Installation process used every time I clean install Windows
    ```powershell
    irm "https://christitus.com/win" | iex
    ```
+   - sysdm.cpl
 
 6. **App Package Install Script**
 
