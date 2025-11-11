@@ -18,6 +18,11 @@ Installation process used every time I clean install Windows
    ```powershell
    irm "https://christitus.com/win" | iex
    ```
+   - sysdm.cpl (opens sytem properties)
+   - mmsys.cpl (opens Sound settings)
+   - timedate.cpl (opens Date and Time settings)
+   - intl.cpl (opens Region settings)
+   - powercfg.cpl (opens Power Options / Power Plan settings)
 
 6. **Microsoft Store**
    - For Windows 11, run in Admin CMD: `wsreset -i`
