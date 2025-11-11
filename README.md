@@ -18,7 +18,10 @@ Installation process used every time I clean install Windows
    ```powershell
    irm "https://christitus.com/win" | iex
    ```
-   - sysdm.cpl
+   - sysdm.cpl (opens sytem properties)
+   - mmsys.cpl (opens Sound settings)
+   - timedate.cpl (opens Date and Time settings)
+   - intl.cpl (opens Region settings)
 
 6. **App Package Install Script**
 
