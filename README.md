@@ -18,15 +18,14 @@
    ```
 
 5. **Windows Tweaks**
-   Do not run tweaks until further notice (Nov 26 2025).
-   Icons keps disappearing on the taskbar and was only fixed after another clean install.
+   - Do not run tweaks until further notice (Nov 26 2025). Icons keps disappearing on the taskbar and was only fixed after another clean install.
 
    ```powershell
    irm "https://christitus.com/win" | iex
    ```
 
 6. **App Package Install Script**
-   If using windows LTSC you have to reinstall the MS store and install winget before running the app package script.
+   - If using windows LTSC you have to reinstall the MS store and install winget before running the app package script.
    - run in Admin CMD: `wsreset -i`
    - [Winget](https://apps.microsoft.com/detail/9nblggh4nns1?hl=en-US&gl=CA)
 
