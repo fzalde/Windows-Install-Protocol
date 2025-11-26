@@ -26,10 +26,10 @@
 
 6. **App Package Install Script**
    - If using windows LTSC you have to reinstall the MS store and install winget before running the app package script.
-   - run in Admin CMD: `wsreset -i`
-   - [Winget](https://apps.microsoft.com/detail/9nblggh4nns1?hl=en-US&gl=CA)
+     1. run in Admin CMD: `wsreset -i`
+     2. [Winget](https://apps.microsoft.com/detail/9nblggh4nns1?hl=en-US&gl=CA)
 
-   - [Script](App-Package-Script.md) 
+   - [App Package Script](App-Package-Script.md) 
 
 ## Miscellaneous
 
