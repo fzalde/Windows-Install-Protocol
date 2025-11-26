@@ -14,4 +14,6 @@ winget install --id=OBSProject.OBSStudio -e --silent --accept-source-agreements 
 winget install --id=REALiX.HWiNFO -e --silent --accept-source-agreements --accept-package-agreements
 winget install --id=Microsoft.PowerToys -e --silent --accept-source-agreements --accept-package-agreements
 winget install --id=Obsidian.Obsidian -e --silent --accept-source-agreements --accept-package-agreements
+winget install --id=Github.GithubDesktop -e --silent --accept-source-agreements --accept-package-agreements
+winget install --id=Spotify.Spotify -e --silent --accept-source-agreements --accept-package-agreements
 ```
