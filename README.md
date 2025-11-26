@@ -1,24 +1,24 @@
 # Windows Install Protocol
 
-1. **ISO's**
+## 1. **ISO's**
 - [**Windows 11 ISO Download**](https://www.microsoft.com/en-us/software-download/windows11)
 - [**Windows 11 LTSC ISO Download**](https://massgrave.dev/windows_ltsc_links)  
 
-2. **Formatting USB**  
+## 2. **Formatting USB**  
 [**Rufus Download**](https://rufus.ie/en/)
    - Rufus' default settings should suffice
 
-3. **Windows login bypass**
+## 3. **Windows login bypass**
 - Press `Shift + F10`
 - Run: `start ms-cxh:localonly`
 
-4. **Microsoft Activation Script**
+## 4. **Microsoft Activation Script**
 
    ```powershell
    irm https://get.activated.win | iex
    ```
 
-5. **Windows Tweaks**  
+## 5. **Windows Tweaks**  
 Do not run tweaks until further notice (Nov 26 2025).  
 Icons keps disappearing on the taskbar and was only fixed after another clean install.  
 
@@ -26,7 +26,7 @@ Icons keps disappearing on the taskbar and was only fixed after another clean in
    irm "https://christitus.com/win" | iex
    ```
 
-6. **App Package Install Script**  
+## 6. **App Package Install Script**  
 If using windows LTSC you have to reinstall the MS store and install winget before running the app package script.
    1. run in Admin CMD: `wsreset -i`
    2. [Winget](https://apps.microsoft.com/detail/9nblggh4nns1?hl=en-US&gl=CA)
@@ -47,5 +47,5 @@ If using windows LTSC you have to reinstall the MS store and install winget befo
 - <https://github.com/microsoft/winget-cli>
 
 ## Log
-- [2025-5-10]
-- [2025-11-11]
+- May 10 2025
+- November 11 2025
