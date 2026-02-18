@@ -24,9 +24,6 @@ irm https://get.activated.win | iex
 
 ## 5. **Windows Tweaks**
 
-Do not run tweaks until further notice (Nov 26 2025).  
-Icons keps disappearing on the taskbar and was only fixed after another clean install.
-
 ```powershell
 irm "https://christitus.com/win" | iex
 ```
