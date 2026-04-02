@@ -34,9 +34,7 @@ If using windows LTSC you have to reinstall the MS store and install winget befo
 
 1.  run in Admin CMD: `wsreset -i`
 2.  [Winget](https://apps.microsoft.com/detail/9nblggh4nns1?hl=en-US&gl=CA)
-3.  Once completed, download and run the powershell script [here](https://raw.githubusercontent.com/fzalde/Windows-Install-Protocol/refs/heads/main/PS_Install_Script/Install%20script.ps1?download=1)
-
-[App Package Script](App-Package-Script.md)
+3.  Once completed, download and run the powershell script [here](https://github.com/fzalde/Windows-Install-Protocol/blob/main/PS_Install_Script/Install%20script.ps1)
 
 ## Miscellaneous
 
