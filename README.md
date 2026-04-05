@@ -53,3 +53,4 @@ If using windows LTSC you have to reinstall the MS store and install winget befo
 
 - May 10 2025
 - November 11 2025
+- April 4 2026 (Forced bc I dual-booted Fedora and it deleted windows from bootloader lol)
